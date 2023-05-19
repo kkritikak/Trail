@@ -15,7 +15,7 @@
 #define HOSTDEVICE inline __attribute__((always_inline))
 #include <string>
 #endif // NVCC
-
+//comment
 namespace mpcd
 {
 namespace detail
