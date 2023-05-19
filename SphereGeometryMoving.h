@@ -1,4 +1,4 @@
-//this is the change I want to see
+///this is the change I want to see
 #ifndef MPCD_SPHERE_GEOMETRY_H_
 #define MPCD_SPHERE_GEOMETRY_H_
 
